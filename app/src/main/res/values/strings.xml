@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">American Football Scorekeeper App</string>
+    <string name="team_a">team a</string>
+    <string name="_6points">+6points</string>
+    <string name="_3p_oints">+3p oints</string>
+    <string name="_2points">+2Points</string>
+    <string name="_1points">+1Points</string>
+    <string name="team_b">team b</string>
+    <string name="_0">0</string>
+    <string name="_3points">+3points</string>
+    <string name="_3points">+3points</string>
+    <string name="reset_score">Reset Score</string>
+</resources>
